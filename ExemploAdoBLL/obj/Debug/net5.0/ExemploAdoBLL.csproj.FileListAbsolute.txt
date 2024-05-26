@@ -1,0 +1,4 @@
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploAdoBLL\obj\Debug\net5.0\ExemploAdoBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploAdoBLL\obj\Debug\net5.0\ExemploAdoBLL.AssemblyInfoInputs.cache
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploAdoBLL\obj\Debug\net5.0\ExemploAdoBLL.AssemblyInfo.cs
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploAdoBLL\obj\Debug\net5.0\ExemploAdoBLL.csproj.CoreCompileInputs.cache

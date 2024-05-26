@@ -1,0 +1,50 @@
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\bin\Debug\net5.0\ExemploADO.exe
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\bin\Debug\net5.0\ExemploADO.deps.json
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\bin\Debug\net5.0\ExemploADO.runtimeconfig.json
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\bin\Debug\net5.0\ExemploADO.runtimeconfig.dev.json
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\bin\Debug\net5.0\ExemploADO.dll
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\bin\Debug\net5.0\ref\ExemploADO.dll
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\bin\Debug\net5.0\ExemploADO.pdb
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\bin\Debug\net5.0\AdoBLL.dll
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\bin\Debug\net5.0\AdoBLL.pdb
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\obj\Debug\net5.0\ExemploADO.csproj.AssemblyReference.cache
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\obj\Debug\net5.0\ExemploADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\obj\Debug\net5.0\ExemploADO.AssemblyInfoInputs.cache
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\obj\Debug\net5.0\ExemploADO.AssemblyInfo.cs
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\obj\Debug\net5.0\ExemploADO.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\obj\Debug\net5.0\ExemploADO.csproj.CopyComplete
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\obj\Debug\net5.0\ExemploADO.dll
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\obj\Debug\net5.0\ref\ExemploADO.dll
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\obj\Debug\net5.0\ExemploADO.pdb
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\ExemploADO\obj\Debug\net5.0\ExemploADO.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\bin\Debug\net5.0\ExemploADO.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\bin\Debug\net5.0\ExemploADO.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\bin\Debug\net5.0\ExemploADO.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\bin\Debug\net5.0\ExemploADO.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\bin\Debug\net5.0\ExemploADO.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\bin\Debug\net5.0\ExemploADO.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\bin\Debug\net5.0\AdoBLL.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\bin\Debug\net5.0\AdoBLL.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\obj\Debug\net5.0\ExemploADO.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\obj\Debug\net5.0\ExemploADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\obj\Debug\net5.0\ExemploADO.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\obj\Debug\net5.0\ExemploADO.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\obj\Debug\net5.0\ExemploADO.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\obj\Debug\net5.0\ExemploADO.csproj.Up2Date
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\obj\Debug\net5.0\ExemploADO.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\obj\Debug\net5.0\refint\ExemploADO.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\obj\Debug\net5.0\ExemploADO.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\obj\Debug\net5.0\ExemploADO.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\ExemploADO\obj\Debug\net5.0\ref\ExemploADO.dll

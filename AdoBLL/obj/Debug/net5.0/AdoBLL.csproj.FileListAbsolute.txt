@@ -1,0 +1,23 @@
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\AdoBLL\bin\Debug\net5.0\AdoBLL.deps.json
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\AdoBLL\bin\Debug\net5.0\AdoBLL.dll
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\AdoBLL\bin\Debug\net5.0\ref\AdoBLL.dll
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\AdoBLL\bin\Debug\net5.0\AdoBLL.pdb
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\AdoBLL\obj\Debug\net5.0\AdoBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\AdoBLL\obj\Debug\net5.0\AdoBLL.AssemblyInfoInputs.cache
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\AdoBLL\obj\Debug\net5.0\AdoBLL.AssemblyInfo.cs
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\AdoBLL\obj\Debug\net5.0\AdoBLL.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\AdoBLL\obj\Debug\net5.0\AdoBLL.dll
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\AdoBLL\obj\Debug\net5.0\ref\AdoBLL.dll
+C:\Users\Nathan Cirillo\source\repos\ExemploADO\AdoBLL\obj\Debug\net5.0\AdoBLL.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\AdoBLL\bin\Debug\net5.0\AdoBLL.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\AdoBLL\bin\Debug\net5.0\AdoBLL.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\AdoBLL\bin\Debug\net5.0\AdoBLL.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\AdoBLL\obj\Debug\net5.0\AdoBLL.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\AdoBLL\obj\Debug\net5.0\AdoBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\AdoBLL\obj\Debug\net5.0\AdoBLL.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\AdoBLL\obj\Debug\net5.0\AdoBLL.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\AdoBLL\obj\Debug\net5.0\AdoBLL.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\AdoBLL\obj\Debug\net5.0\AdoBLL.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\AdoBLL\obj\Debug\net5.0\refint\AdoBLL.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\AdoBLL\obj\Debug\net5.0\AdoBLL.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\ExemploADO\ExemploADO\AdoBLL\obj\Debug\net5.0\ref\AdoBLL.dll
